@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jessica-reviews.github.io/Advanced-Memory-Formula-Reviews-2026-and-Complaints/sitemap.xml
